@@ -91,6 +91,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		DB863E76194C8E4E00AD47C7 /* MethodOverloadingDemo.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MethodOverloadingDemo.playground; sourceTree = "<group>"; };
 		DB8BF4D9194C56C30097D1B8 /* Singleton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Singleton.swift; sourceTree = "<group>"; };
 		DB8BF4E2194C5C200097D1B8 /* ObjCClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ObjCClass.h; sourceTree = "<group>"; };
 		DB8BF4E3194C5C200097D1B8 /* ObjCClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ObjCClass.m; sourceTree = "<group>"; };
@@ -170,6 +171,7 @@
 				DBE0B379194C7D570074B26C /* PlaygroundDemo.playground */,
 				DBE0B37A194C7D570074B26C /* StructClassesDemo.playground */,
 				DBE0B37B194C7E770074B26C /* OperatorOverloadDemo.playground */,
+				DB863E76194C8E4E00AD47C7 /* MethodOverloadingDemo.playground */,
 			);
 			path = Playgrounds;
 			sourceTree = "<group>";
