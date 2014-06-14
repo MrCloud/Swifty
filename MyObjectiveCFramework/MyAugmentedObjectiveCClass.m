@@ -8,9 +8,9 @@
 
 #import "MyAugmentedObjectiveCClass.h"
 
-
+#import <MyObjectiveCFramework/MyObjectiveCFramework-Swift.h>
 @implementation MyAugmentedObjectiveCClass
 - (void)MyAugmentedMethodWithSwiftObject:(MyAwesomeSwiftClass *)object {
-  return object.name;
+  NSLog(@"%@", object.name);
 }
 @end
