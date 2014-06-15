@@ -1,5 +1,3 @@
-// Playground - noun: a place where people can play
-
 import Foundation
 
 for i in 0...3 {
@@ -31,9 +29,9 @@ do {
 */
 
 let boolValue = true
-if boolValue { // {} is mandatory
+if boolValue {
   println(boolValue)
-} /* else if .. {
+} /*else if .. {
 
 } else {
 
@@ -53,7 +51,7 @@ switch todayConference {
   case .ChtiJUG:
   string = "Free beer"
   case .WWDC:
-  string = "The Best"
+  string = "The Best place to be"
   case .Cocoaheads:
   string = "A Fine"
   fallthrough
